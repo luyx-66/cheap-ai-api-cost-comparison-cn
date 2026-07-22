@@ -33,4 +33,10 @@ APIMART 面向需要统一调用多种 AI 模型的用户。是否适合你的�
 python -m unittest discover -s tests
 ```
 
+<!-- apimart-toolkit-nav:start -->
+## 项目导航
+
+本仓库属于 APIMART 开源 AI API 工具矩阵。可在 [luyx-66 项目主页](https://github.com/luyx-66) 查看全部中英文测评、API 中转检查、模型示例和成本工具。
+<!-- apimart-toolkit-nav:end -->
+
 MIT License
