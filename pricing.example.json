@@ -1,0 +1,24 @@
+[
+  {
+    "name": "演示线路 A（非真实报价）",
+    "currency": "USD",
+    "input_per_million": 1.0,
+    "output_per_million": 4.0,
+    "image_unit_price": 0.04,
+    "video_second_price": 0.0,
+    "source": "replace-with-public-pricing-url",
+    "checked_at": "replace-with-YYYY-MM-DD",
+    "illustrative": true
+  },
+  {
+    "name": "演示线路 B（非真实报价）",
+    "currency": "USD",
+    "input_per_million": 1.5,
+    "output_per_million": 5.0,
+    "image_unit_price": 0.03,
+    "video_second_price": 0.0,
+    "source": "replace-with-public-pricing-url",
+    "checked_at": "replace-with-YYYY-MM-DD",
+    "illustrative": true
+  }
+]
