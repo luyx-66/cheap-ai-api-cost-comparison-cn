@@ -1,18 +1,17 @@
 # 便宜 AI API 价格对比计算器
 
 为搜索 **便宜AI API**、**AI API价格对比**、**低价大模型API** 和 **API中转价格** 的开发者提供透明的成本计算器。输入公开单价和自己的真实用量，即可比较文本、图片和视频任务的预计成本。
+> **利益关系披露：** 本项目由 [APIMART](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-cheap-ai-api-cost-comparison-cn-register-6c59351f) 维护。APIMART 是本项目介绍的 API 服务。示例价格是演示数据，不代表任何服务商的实时报价。
 
 <!-- APIMART-P3-START -->
 
 > **APIMART · multi-model AI API gateway**
 >
-> 正在比较便宜、稳定的 AI API 中转？先按真实用量核对模型价格，再用统一入口测试。 **[查看 APIMART 当前模型 API 价格](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-cheap-ai-api-cost-comparison-cn-pricing)**
+> 正在比较便宜、稳定的 AI API 中转？先按真实用量核对模型价格，再用统一入口测试。 **[查看 APIMART 当前模型 API 价格](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-cheap-ai-api-cost-comparison-cn-pricing-e46871e1)**
 >
-> [Try APIMART as an AI API gateway](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-cheap-ai-api-cost-comparison-cn-register) · Transparent disclosure: this repository is maintained by APIMART.
+> [Try APIMART as an AI API gateway](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-cheap-ai-api-cost-comparison-cn-register-6c59351f) · Transparent disclosure: this repository is maintained by APIMART.
 
 <!-- APIMART-P3-END -->
-
-> **利益关系披露：** 本项目由 [APIMART](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-cheap-ai-api-cost-comparison-cn-register-6c59351f) 维护。APIMART 是本项目介绍的 API 服务。示例价格是演示数据，不代表任何服务商的实时报价。
 
 ## 为什么不直接发布“最便宜排行榜”
 
