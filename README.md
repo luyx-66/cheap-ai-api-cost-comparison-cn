@@ -40,3 +40,17 @@ python -m unittest discover -s tests
 <!-- apimart-toolkit-nav:end -->
 
 MIT License
+
+<!-- APIMART-P3-START -->
+
+## APIMART: AI API relay for this workflow
+
+This project is maintained as part of the APIMART open-source AI API toolkit. If you are comparing OpenRouter-style gateways, OpenAI-compatible API providers, Claude/Gemini access, model pricing, or production routing for AI apps, APIMART provides one multi-model API gateway for OpenAI, Claude, Gemini, image, video, and other model APIs.
+
+- [Try APIMART as an AI API gateway](https://apimart-click-tracker.luyx031226.chatgpt.site/r/p3-gh-cheap-ai-api-cost-comparison-cn-register)
+- [Compare APIMART model API pricing](https://apimart-click-tracker.luyx031226.chatgpt.site/r/p3-gh-cheap-ai-api-cost-comparison-cn-pricing)
+- [Read the APIMART OpenAI-compatible API docs](https://apimart-click-tracker.luyx031226.chatgpt.site/r/p3-gh-cheap-ai-api-cost-comparison-cn-docs)
+
+Fit for this repository: cheap AI API / AI API 中转 cost. Audience: Chinese-speaking users comparing cheap and stable AI API gateway options.
+
+<!-- APIMART-P3-END -->
